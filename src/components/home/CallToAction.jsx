@@ -11,12 +11,12 @@ export default function CallToAction() {
       </p>
 
       <div className="flex flex-col sm:flex-row justify-center gap-4">
-        <a 
+        <link 
           to="/contact"
           className="bg-white text-blue-900 px-8 py-3 rounded-full font-bold hover:bg-blue-50 transition-colors"
         >
           Me contacter
-        </a>
+        </link>
 
         <a 
           href= {`${import.meta.env.BASE_URL}Thomas.Saintot_Alternant_DeveloppeurWeb.pdf`}
