@@ -23,8 +23,16 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold mb-2">Réseaux</h4>
           <ul className="text-sm space-y-1">
-            <li><a href="https://github.com/thomassaintot34?tab=repositories" className="hover:underline">GitHub</a></li>
-            <li><a href="https://fr.linkedin.com/in/thomas-saintot-531392425" className="hover:underline">LinkedIn</a></li>
+            <li><a 
+              href="https://github.com/thomassaintot34?tab=repositories" 
+              target="_blank"
+              className="hover:underline"
+            >GitHub</a></li>
+            <li><a 
+              href="https://fr.linkedin.com/in/thomas-saintot-531392425" 
+              target="_blank"
+              className="hover:underline"
+            >LinkedIn</a></li>
           </ul>
         </div>
 
