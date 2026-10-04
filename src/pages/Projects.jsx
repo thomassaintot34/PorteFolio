@@ -17,8 +17,8 @@ const Projects = () => {
       title: 'Mon CodeLab',
       description: 'Espace de démonstration de mes compétences en HTML, CSS et JavaScript. Conçu en vanilla code pour démontrer mes bases (Flexbox, responsive design, sémantique). Projet pensé dans une démarche de transparence totale sur l\'utilisation pédagogique de l\'IA, validation W3C et recherche du travail bien fait.',
       technologies: ["HTML5", "CSS3", "JavaScript (Vanilla)", "Flexbox", "Responsive Design", "Git"],
-      liveUrl: '',
-      githubUrl: '',
+      liveUrl: 'https://thomassaintot34.github.io/Mon_LabCode/index.html',
+      githubUrl: 'https://github.com/thomassaintot34/Mon_LabCode',
       isEmpty: true,
     },
     {
